@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋 
+I am a self-taught backend .Net Developer 
+- 🤔 I’m looking for .Net Developer job
+- 🔭 I’m currently working on integration test for my Ticket Control project
+- 🌱 I’m currently learning MongoDB and Integration Tests
 <!--
 **upizs/upizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
