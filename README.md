@@ -3,7 +3,7 @@ I am a self-taught backend .Net Developer
 - 🤔 I’m working as Junior Developer job
 - 🔭 I’m currently working on Warehouse Management System\ Software
 - 🌱 I’m currently learning Unity Game development.
-- 📫 How to reach me: upizs#1038 on Discord
+- 📫 How to reach me: upizs#1081 on Discord
 <!--
 **upizs/upizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
