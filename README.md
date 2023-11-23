@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I am a self-taught backend .Net Developer 
-- 🤔 I’m working as Junior Developer job
+- 🤔 I’m working as a Developer
 - 🔭 I’m currently working on Warehouse Management System\ Software
-- 🌱 I’m currently learning Unity Game and Pixel Art development.
+- 🌱 I’m currently learning Specflow Testing.
 - 📫 How to reach me: upizs#1081 on Discord
 <!--
 **upizs/upizs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
